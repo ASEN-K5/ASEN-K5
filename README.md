@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=ASEN-K5&fontSize=52&fontAlignY=35&desc=Pentest%20%7C%20Web%20AppSec%20%7C%20IoT%20%26amp%3B%20Wireless&descAlignY=60&v=3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=ASEN-K5&fontSize=52&fontAlignY=35&desc=Pentest%20%7C%20Web%20AppSec%20%7C%20IoT%20%26amp%3B%20Wireless&descAlignY=60&v=4" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+ASEN-K5+%F0%9F%91%8B;Pentester-in-training+%7C+Information+Security+Student;Focus%3A+Web+Pentest+%E2%80%A2+IoT%2FWireless+Pentest;I+hack+ethically+and+write+clear+reports&v=3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+ASEN-K5+%F0%9F%91%8B;Pentester-in-training+%7C+Information+Security+Student;Focus%3A+Web+Pentest+%E2%80%A2+IoT%2FWireless+Pentest;I+hack+ethically+and+write+clear+reports&v=4" />
 </p>
 
 <p align="center">
@@ -38,8 +38,6 @@
 ---
 
 ## 🚀 Featured Work
-> (Dùng badge ổn định để tránh lỗi ảnh card khi service stats bị quá tải)
-
 - **Toy-Store-Web**  
   https://github.com/ASEN-K5/Toy-Store-Web  
   <img src="https://img.shields.io/github/stars/ASEN-K5/Toy-Store-Web?style=flat" />
@@ -60,10 +58,19 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- Domain thay thế để hạn chế lỗi load -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASEN-K5&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ASEN-K5&theme=tokyonight&hide_border=true&border_radius=14&mode=weekly&v=4" />
+</p>
+
+---
+
+## 🧊 Contribution (3D)
+<p align="center">
+  <!-- ảnh này sẽ hiện sau khi bạn thêm workflow 3D ở dưới và chạy 1 lần -->
+  <img src="https://raw.githubusercontent.com/ASEN-K5/ASEN-K5/main/profile-3d-contrib/profile-night-rainbow.svg?v=4" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&v=3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&v=4" />
 </p>
