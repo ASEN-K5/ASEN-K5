@@ -1,76 +1,139 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=ASEN-K5&fontSize=52&fontAlignY=35&desc=Pentest%20%7C%20Web%20AppSec%20%7C%20IoT%20%26amp%3B%20Wireless&descAlignY=60&v=4" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+ASEN-K5+%F0%9F%91%8B;Pentester-in-training+%7C+Information+Security+Student;Focus%3A+Web+Pentest+%E2%80%A2+IoT%2FWireless+Pentest;I+hack+ethically+and+write+clear+reports&v=4" />
-</p>
+<img src="./anh.png" alt="ASEN-K5 Profile Image" width="150" style="border-radius: 50%;" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASEN-K5&label=Profile%20views&style=flat" />
-  <img src="https://img.shields.io/github/followers/ASEN-K5?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/ASEN-K5?label=Stars&style=flat" />
-</p>
+# ASEN-K5
+
+### Pentest | Web AppSec | IoT & Wireless
+
+<br/>
+
+<code>Focus: Web Pentest • IoT/Wireless Pentest</code>
+
+<br/>
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ASEN-K5&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/ASEN-K5?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/ASEN-K5?label=Stars&style=flat)
+
+</div>
 
 ---
 
 ## 🧠 Pentest Focus
-- **Web App Pentest:** Recon → Test → Exploit (safe) → **Report**
+
+- **Web App Pentest:** Recon → Testing → Safe Exploitation → Reporting
 - **IoT/Wireless Pentest:** Attack surface mapping → firmware/config review → BLE/Wi-Fi testing → hardening
+- **Network Security:** Enterprise network design, segmentation, firewall policy, monitoring, and defensive architecture
 
 > 🔒 **Ethics:** Everything here is for learning, authorized testing, and defensive improvement only.
 
 ---
 
 ## 🧰 Tools & Stack
-<p>
-  <img src="https://img.shields.io/badge/Kali-Linux-informational" />
-  <img src="https://img.shields.io/badge/Burp-Suite-informational" />
-  <img src="https://img.shields.io/badge/Nmap-informational" />
-  <img src="https://img.shields.io/badge/Wireshark-informational" />
-  <img src="https://img.shields.io/badge/OWASP-Web%20Testing-informational" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,mysql,java,spring,html,css,js&perline=6" />
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?style=flat&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-blue?style=flat&logo=wireshark)
+![OWASP](https://img.shields.io/badge/OWASP-Web%20Testing-black?style=flat&logo=owasp)
+![Linux](https://img.shields.io/badge/Linux-System%20Security-black?style=flat&logo=linux)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat&logo=react)
+![ESP32](https://img.shields.io/badge/ESP32-IoT%20Security-red?style=flat)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat&logo=git)
 
 ---
 
 ## 🚀 Featured Work
-- **Toy-Store-Web**  
-  https://github.com/ASEN-K5/Toy-Store-Web  
-  <img src="https://img.shields.io/github/stars/ASEN-K5/Toy-Store-Web?style=flat" />
-  <img src="https://img.shields.io/github/last-commit/ASEN-K5/Toy-Store-Web?style=flat" />
 
-- **Otech**  
-  https://github.com/ASEN-K5/Otech  
-  <img src="https://img.shields.io/github/stars/ASEN-K5/Otech?style=flat" />
-  <img src="https://img.shields.io/github/last-commit/ASEN-K5/Otech?style=flat" />
+<table>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/ASEN-K5/esp32-wireless-security">
+          ESP32 Wireless Security
+        </a>
+      </h3>
+      <p>
+        An ESP32-based wireless security lab project for studying Wi-Fi management frames,
+        wireless behavior, and defensive security awareness in an authorized lab environment.
+      </p>
+      <p>
+        <b>Focus:</b> ESP32, Wi-Fi security, wireless lab, IoT security, authorized testing.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/ASEN-K5/MINA">
+          MINA — Multi-Intelligence Network Agent
+        </a>
+      </h3>
+      <p>
+        A multi-agent reconnaissance and reporting system designed for authorized security assessment,
+        OSINT collection, attack surface analysis, and structured report generation.
+      </p>
+      <p>
+        <b>Focus:</b> FastAPI, React, LangGraph, security automation, recon, reporting.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧾 Reporting Style (what you can expect)
-- Clear **Scope / Impact / Evidence / Fix**
-- Repro steps with minimal risk
-- Mapping to OWASP where relevant
+## 📌 Current Learning Path
+
+- Web Application Pentesting
+- Wireless & IoT Security
+- Network Security Design
+- Malware Analysis Basics
+- Reverse Engineering Basics
+- AI Agents for Security Automation
+- Security Report Writing
+
+---
+
+## 🧪 Security Lab Mindset
+
+I focus on building practical security projects that combine:
+
+- Clear methodology
+- Controlled lab scope
+- Reproducible testing
+- Defensive explanation
+- Professional documentation
+- Ethical and authorized use
+
+The goal is not only to find issues, but also to understand how systems work, how weaknesses appear, and how to improve them.
 
 ---
 
 ## 📊 GitHub Stats
-<!-- Domain thay thế để hạn chế lỗi load -->
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ASEN-K5&theme=tokyonight&hide_border=true&border_radius=14&mode=weekly&v=4" />
-</p>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASEN-K5&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASEN-K5&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🧊 Contribution (3D)
-<p align="center">
-  <!-- ảnh này sẽ hiện sau khi bạn thêm workflow 3D ở dưới và chạy 1 lần -->
-  <img src="https://raw.githubusercontent.com/ASEN-K5/ASEN-K5/main/profile-3d-contrib/profile-night-rainbow.svg?v=4" />
-</p>
+## 📫 Contact
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&v=4" />
-</p>
+- GitHub: [ASEN-K5](https://github.com/ASEN-K5)
+- Email: txnhat2222@gmail.com
+
+---
+
+<div align="center">
+
+### Curious. Analytical. Persistent.
+
+<sub>Always learning. Always building.</sub>
+
+</div>
