@@ -1,16 +1,11 @@
 <div align="center">
 
-<img src="./anh.png" alt="ASEN-K5 Profile Image" width="150" style="border-radius: 50%;" />
+<img src="./anh.png" alt="ASEN-K5 Profile Image" width="520" />
 
 # ASEN-K5
 
 ### Pentest | Web AppSec | IoT & Wireless
 
-<br/>
-
-<code>Focus: Web Pentest • IoT/Wireless Pentest</code>
-
-<br/>
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ASEN-K5&label=Profile%20views&color=0e75b6&style=flat)
@@ -108,18 +103,6 @@ I focus on building practical security projects that combine:
 - Ethical and authorized use
 
 The goal is not only to find issues, but also to understand how systems work, how weaknesses appear, and how to improve them.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASEN-K5&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASEN-K5&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
