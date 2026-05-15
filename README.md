@@ -110,11 +110,3 @@ The goal is not only to find issues, but also to understand how systems work, ho
 - Email: txnhat2222@gmail.com
 
 ---
-
-<div align="center">
-
-### Curious. Analytical. Persistent.
-
-<sub>Always learning. Always building.</sub>
-
-</div>
