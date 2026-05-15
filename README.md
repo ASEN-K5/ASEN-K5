@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./anh.png" alt="ASEN-K5 Profile Image" width="650" />
+<img src="./anh.png" alt="ASEN-K5 Profile Image" width="820" />
 
 ### Pentest | Web AppSec | IoT & Wireless
 
